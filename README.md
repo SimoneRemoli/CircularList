@@ -20,3 +20,4 @@ Copy the folder inside your local device and open it with the terminal.  Operati
 
 ## Source execution example :bulb:
 Initially, up to a maximum of five nodes will be created. An **array** will store the **link information** of these nodes.
+Remember that in an abstract way, a node is composed of the **actual information content and a memory address** that points to the next node.
