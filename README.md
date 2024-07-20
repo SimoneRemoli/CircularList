@@ -2,8 +2,6 @@
   Circular List - C/C++
   <img src="https://graphicmaths.com/img/computer-science/graph-theory/dijkstras-algorithm/graph.png" width="30px"/>
 </h1>
-I created a version of the shortest paths algorithm using the DOT library, which is a filter for drawing directed graphs.
-The program constructs the graph in real time and associates the weight with each edge.
-
+The software shows an example of connection and disconnection between nodes of a simple list. What makes the program complicated is the ability to correctly manage the saving of the memory areas of the pointers necessary for connecting and disconnecting the nodes.
 <p align="center"> </p>
 
