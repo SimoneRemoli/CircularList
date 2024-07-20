@@ -17,3 +17,5 @@ The software shows an example of connection and disconnection between nodes of a
 
 ### Execute :computer:
 Copy the folder inside your local device and open it with the terminal.  Operation requires that only 5 nodes be managed and the order be exchanged between them every time a new acquisition is made from standard input (stdin). Let's consider an example next.
+
+## Source execution example :bulb:
