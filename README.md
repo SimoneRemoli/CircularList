@@ -12,3 +12,8 @@ The software shows an example of connection and disconnection between nodes of a
 </p>
 <hr/>
 
+<h3 align="center"> Let's look at how it works. :mag:</h3> 
+
+
+### Execute :computer:
+Copy the folder inside your local device and open it with the terminal.  Operation requires that only 5 nodes be managed and the order be exchanged between them every time a new acquisition is made from standard input (stdin). Let's consider an example next.
