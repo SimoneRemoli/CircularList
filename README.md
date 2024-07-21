@@ -22,6 +22,8 @@ Copy the folder inside your local device and open it with the terminal.  Operati
 Initially, up to a maximum of five nodes will be created. An **array** will store the **link information** of these nodes.
 Remember that in an abstract way, a node is composed of the **actual information content and a memory address** that points to the next node.
 
-
+<h1 align="center">
+  Click on Play
 https://github.com/user-attachments/assets/3bb86bc5-baa6-4f06-8928-3e6b77a19641
+</h1>
 
