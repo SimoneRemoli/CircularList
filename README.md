@@ -26,6 +26,7 @@ Remember that in an abstract way, a node is composed of the **actual information
   Click on Play
 </h3>
 https://github.com/user-attachments/assets/3bb86bc5-baa6-4f06-8928-3e6b77a19641
-<img src="https://github.com/user-attachments/assets/3bb86bc5-baa6-4f06-8928-3e6b77a19641" width="200">
+<img src="[https://github.com/user-attachments/assets/3bb86bc5-baa6-4f06-8928-3e6b77a19641](https://github.com/user-attachments/assets/3bb86bc5-baa6-4f06-8928-3e6b77a19641
+)" width="200">
 
 
